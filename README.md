@@ -3,11 +3,9 @@
 ## Table des matières
 
 1. [Présentation du projet](#présentation-du-projet)
-```2. [Structure du dépôt](#structure-du-dépôt)```
 2. [Étude de l’existant](#étude-de-lexistant)
 3. [Public cible](#public-cible)
 4. [Fonctionnalités principales](#fonctionnalités-principales)
-```6. [État d'avancement](#état-davancement)```
 5. [Guide de développement](#guide-de-développement)
 
 ---

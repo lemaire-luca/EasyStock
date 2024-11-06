@@ -21,21 +21,6 @@ EasyStock permet, entre autres, de :
 - Recevoir des rappels pour une date de péremption ou bien une quantité insuffisante.
 - Partager des listes d'inventaire avec d’autres utilisateurs.
 ---
-```
-## Structure du dépôt
-
-Voici un aperçu des principaux dossiers et fichiers présents dans le dépôt :
-
-- **/lib/** : Contient l'ensemble du code source de l'application. L’organisation des fichiers est pensée pour une lisibilité optimale et une modularité du code. Chaque fonctionnalité est séparée dans des sous-dossiers dédiés (ex: `/lib/models/`, `/lib/screens/`, `/lib/services/`).
-  
-- **/assets/** : Ce dossier contient toutes les ressources multimédia de l’application, comme les images et les icônes.
-  
-- **/designs/** : Vous trouverez ici les maquettes de l'application. Nous avons utilisé des outils comme Figma pour réaliser des maquettes interactives que vous pouvez consulter pour comprendre l’interface utilisateur (UI/UX).
-
-- **/docs/** : Documentation technique supplémentaire, incluant une analyse plus poussée des choix technologiques et de la structure de base de données.
-
----
-```
 
 ## Étude de l’existant
 
@@ -83,16 +68,6 @@ Il est possible de partager un groupe disposant d'une liste de courses ou d'un i
 
 Vous recevrez des notifications dès qu'un produit approche de sa date de péremption ou lorsqu'il manque de quantité, vous permettant ainsi de mieux gérer vos stocks et d'éviter tout gaspillage.
 
----
-```
-## État d'avancement
-
-| Fonctionnalité           | État            | GIF illustratif                                |
-|--------------------------|-----------------|------------------------------------------------|
-| Création de tâches        | Terminé         | ![GIF création tâche](./gifs/task_creation.gif) |
-| Partage de listes         | En développement| En attente du GIF                              |
-| Statistiques productivité | À implémenter   | En attente du GIF                              |
-```
 ---
 
 ### Installation

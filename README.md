@@ -56,13 +56,11 @@ Voici quelques fonctionnalités phares de EasyStock, présentées sous forme de 
 - Retirer les aliments périmés ou utilisés pour maintenir un stock à jour et précis.
 - Modifier aisément la quantité des produits disponibles afin de suivre en temps réel vos stocks.
 
----
 
 ### 2. Partage de listes
 
 Il est possible de partager un groupe disposant d'une liste de courses ou d'un inventaire, permettant ainsi une gestion collaborative et optimisée des produits au sein de la famille ou entre amis.
 
----
 
 ### 3. Recevoir des rappels 
 
@@ -97,9 +95,6 @@ Certaines fonctionnalités de MyApp, telles que la synchronisation en ligne, né
 API_KEY=your_api_key_here
 ```
 
----
-
 ## Remerciements
 
 Merci à tous les contributeurs et aux testeurs qui ont permis de rendre cette application possible.
-```
